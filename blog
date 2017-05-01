@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<title>Meebler</title>
+	<meta name="description" content="Ireland Startup">
+	<meta name="keyword" content="Privacy, social networks">
+	<meta name="author" content="Steve">
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<script src="https://use.fontawesome.com/039810b1c2.js"></script>
+	
+</head>
+
+
+<body>
+<header> 
+	<nav class="cf">
+<div id="topbar">
+<a href="../company/dashboard.html" ><img id="logo" src="images/logo.png" alt="a logo image of Meebler in color"></a> 
+</a>
+	
+	<ul> 
+		<li>
+			<div><a href="#" alt="log in" > <span class="nodisplaydesktop"> Community</span> </a></div>
+		</li> 
+
+		<li>
+			<div> <a href="company/index.html" alt="log in" ><span class="underblue  nodisplaydesktop"> Business </span> </a></div>
+		</li> 
+		<li>
+			<div><a href="https://www.shadowpax.com" alt="log in" > <span class="underpink nodisplaydesktop"> Sign In </span>  </a></div>
+		</li> 
+		<li>
+			<div id="signintxt"><a href="https://www.shadowpax.com" alt="log in" > <span class="underpink displaymobile"> Sign In </span>  </a></div>
+		</li> 
+		<li>
+			<div> <a href="#" alt="log in" ><span class="displaymobile"><i class="fa fa-question" aria-hidden="true"></i></span> </a></div>
+		</li> 
+		<li>
+			<div> <a href="#" alt="log in" ><span class="displaymobile"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> </a></div>
+		</li>
+		
+		
+		
+		
+	</ul>
+
+</div>
+</nav>	
+
+</header>
+
+
+<main></main>
+
+<footer class="cf">
+
+	<div> 
+		<a href="index.html"><img id="logof" src="images/logowhite.png" alt="a logo image of Meebler in grayscale"/></a>
+	</div>
+	<div id="left_foot">
+		<h2>MENU
+		</h2>
+
+	<nav id="navfoot">
+
+		<ul> 
+			<li>
+				<div><a href="#" alt="log in"> About Us</a></div>
+			</li> 
+			<li>
+				<div><a href="#" alt="log in">Contact Us</a></div>
+			</li> 
+			<li>
+				<div><a href="#" alt="log in"> Community</a></div>
+			</li> 
+			<li>
+				<div><a href="#" alt="log in">Policies</a></div>
+			</li> 
+
+			<li>
+				<div><a href="https://www.shadowpax.com" alt="log in">For Users &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></div>
+			</li> 
+
+			<li>
+				<div><a href="company/index.html" alt="log in"> For Businesses </a></div>
+			</li> 
+			
+		</ul>
+	</div>
+
+	<div id="right_foot">
+		<a href="https://twitter.com/meeblerhq?lang=en"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+		<a href="https://www.facebook.com/MeeblerHQ"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+		<a href="https://www.linkedin.com/company-beta/5092287/?pathWildcard=5092287"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+		<a href="https://www.youtube.com/channel/UC_NOM8Diika17K-ZqY7Dczg"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+
+	</div>
+	</nav>
+
+
+	<h3>Copyright © 2016, Meebler
+	</h3>
+	
+	
+</footer>
+
+<body></body>
+
+</html>
